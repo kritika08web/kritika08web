@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kritika08web
-- 👀 I’m interested in python development,database management , ui/ux designing and networking
+- 👀 I’m interested in python development,database management and ui/ux designing 
 - 🌱 I’m currently learning advance python programming,network security
 - 💞️ I’m looking to collaborate on data analysis, web development projects,cybersecurity initiatives and database management
 - 📫 How to reach me kritika08singhania@gmail.com or connect wit me on linkedin www.linkedin.com/in/kritika-singhania08
